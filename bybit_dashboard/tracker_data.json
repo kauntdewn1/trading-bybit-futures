@@ -1,0 +1,79 @@
+{
+  "alerts": [
+    {
+      "timestamp": "2025-09-24T04:00:34.870322",
+      "symbol": "LAUSDT",
+      "direction": "LONG",
+      "score": 7.3,
+      "data": {
+        "symbol": "LAUSDT",
+        "price": 0.4228,
+        "rsi": 31.6,
+        "macd": "bullish",
+        "volume": "low",
+        "funding": -0.0005,
+        "oi": "up",
+        "volume_ratio": 0.51,
+        "volatility_mult": 0.5,
+        "capital_weight": 1.5,
+        "volume_24h": 148070128.1,
+        "combo_bonus_long": 0.8,
+        "combo_bonus_short": 0,
+        "combo_patterns_long": [
+          "FUNDING_SQUEEZE_LONG"
+        ],
+        "combo_patterns_short": [],
+        "asset_preference": 1.0,
+        "pattern_preference_long": 1.0,
+        "pattern_preference_short": 1.0
+      },
+      "combo_patterns": [
+        "FUNDING_SQUEEZE_LONG"
+      ],
+      "status": "PENDING",
+      "result": null,
+      "profit_loss": null,
+      "max_favorable": null,
+      "max_adverse": null
+    },
+    {
+      "timestamp": "2025-09-24T04:46:39.865096",
+      "symbol": "LAUSDT",
+      "direction": "LONG",
+      "score": 8.8,
+      "data": {
+        "symbol": "LAUSDT",
+        "price": 0.4208,
+        "rsi": 34.1,
+        "macd": "bullish",
+        "volume": "low",
+        "funding": -0.0005,
+        "oi": "up",
+        "volume_ratio": 0.32,
+        "volatility_mult": 1.0,
+        "capital_weight": 1.5,
+        "volume_24h": 152716340.1,
+        "combo_bonus_long": 0.8,
+        "combo_bonus_short": 0,
+        "combo_patterns_long": [
+          "FUNDING_SQUEEZE_LONG"
+        ],
+        "combo_patterns_short": [],
+        "asset_preference": 1.0,
+        "pattern_preference_long": 1.0,
+        "pattern_preference_short": 1.0
+      },
+      "combo_patterns": [
+        "FUNDING_SQUEEZE_LONG"
+      ],
+      "status": "PENDING",
+      "result": null,
+      "profit_loss": null,
+      "max_favorable": null,
+      "max_adverse": null
+    }
+  ],
+  "performance": {},
+  "patterns": {},
+  "assets": {}
+}

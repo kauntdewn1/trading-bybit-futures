@@ -1,0 +1,14 @@
+{
+  "name": "trading-bybit-api",
+  "version": "1.0.0",
+  "description": "Trading Bybit via API - Python Project",
+  "main": "index.js",
+  "scripts": {
+    "install-python-deps": "cd bybit_dashboard && pip install -r requirements.txt",
+    "start": "cd bybit_dashboard && python main.py"
+  },
+  "keywords": ["trading", "bybit", "api", "python"],
+  "author": "Mellø",
+  "license": "MIT",
+  "note": "Este é um projeto Python. Use 'npm run install-python-deps' para instalar dependências Python ou execute diretamente: cd bybit_dashboard && pip install -r requirements.txt"
+}
