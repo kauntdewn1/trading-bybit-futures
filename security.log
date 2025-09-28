@@ -1,0 +1,349 @@
+2025-09-24 03:06:15,855 - SECURITY - ERROR - Variáveis de ambiente obrigatórias ausentes: ['API_KEY', 'API_SECRET', 'TELEGRAM_TOKEN']
+2025-09-24 03:07:08,294 - SECURITY - ERROR - Variáveis de ambiente obrigatórias ausentes: ['API_KEY', 'API_SECRET', 'TELEGRAM_TOKEN']
+2025-09-24 03:08:08,935 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:08:45,627 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:09:48,462 - SECURITY - ERROR - Variáveis de ambiente obrigatórias ausentes: ['API_KEY', 'API_SECRET', 'TELEGRAM_TOKEN']
+2025-09-24 03:09:48,464 - SECURITY - INFO - ✅ Trade validado: BTCUSDT Buy 100.0
+2025-09-24 03:09:48,464 - SECURITY - INFO - ✅ Trade validado: BTCUSDT Buy 100.0
+2025-09-24 03:09:48,464 - SECURITY - ERROR - Símbolo DOGEUSDT está na lista de bloqueados
+2025-09-24 03:09:48,464 - SECURITY - ERROR - Símbolo DOGEUSDT está na lista de bloqueados
+2025-09-24 03:09:48,464 - SECURITY - ERROR - Quantidade 10000.0 excede limite máximo 1000.0
+2025-09-24 03:09:48,464 - SECURITY - ERROR - Quantidade 10000.0 excede limite máximo 1000.0
+2025-09-24 03:09:49,150 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:09:49,150 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:09:49,150 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:09:49,150 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:09:49,150 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:09:49,150 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:09:49,150 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:09:49,150 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:09:49,150 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:09:49,150 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:09:49,150 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:10:36,916 - SECURITY - ERROR - Variáveis de ambiente obrigatórias ausentes: ['API_KEY', 'API_SECRET', 'TELEGRAM_TOKEN']
+2025-09-24 03:10:55,942 - SECURITY - ERROR - Variáveis de ambiente obrigatórias ausentes: ['API_KEY', 'API_SECRET', 'TELEGRAM_TOKEN']
+2025-09-24 03:11:19,873 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:19,874 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:19,874 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:19,874 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:11:19,874 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:11:19,874 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:19,874 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:19,874 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:11:20,813 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:11:20,813 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:11:20,813 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,813 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,814 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:11:20,814 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:11:20,814 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:11:20,814 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:11:20,814 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:11:20,814 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:11:20,814 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:11:20,814 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:11:20,814 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:11:20,814 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:11:20,814 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,814 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,814 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,814 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,814 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,814 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,815 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,815 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,815 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,815 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,815 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,815 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:20,815 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:25,923 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:25,924 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:25,924 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:11:26,029 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:11:26,029 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:16:55,113 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:16:55,114 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:16:55,114 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:16:55,187 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:16:55,187 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:16:55,992 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:16:55,992 - SECURITY - WARNING - 🔓 BYPASS TEMPORÁRIO: Validação de ambiente ignorada
+2025-09-24 03:28:08,641 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:08,642 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:08,642 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:08,643 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:08,643 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:19,308 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:19,310 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:19,310 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:19,310 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:19,310 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:19,310 - SECURITY - INFO - ✅ Ambiente validado: testnet
+2025-09-24 03:28:19,310 - SECURITY - INFO - ✅ Ambiente validado: testnet
+2025-09-24 03:28:29,699 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:29,700 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:29,700 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:29,700 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:29,700 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:29,700 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:29,700 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:29,700 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:30,159 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-24 03:28:30,160 - SECURITY - INFO - ✅ Ambiente validado: testnet
+2025-09-24 03:28:30,160 - SECURITY - INFO - ✅ Ambiente validado: testnet
+2025-09-24 03:28:30,160 - SECURITY - INFO - ✅ Ambiente validado: testnet
+2025-09-24 03:28:30,160 - SECURITY - INFO - ✅ Ambiente validado: testnet
+2025-09-24 03:28:31,275 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,275 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,275 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,275 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,275 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:28:31,276 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:28:31,276 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:28:31,276 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:28:31,276 - SECURITY - INFO - Teste de log de segurança
+2025-09-24 03:28:31,276 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:28:31,276 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:28:31,276 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:28:31,276 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:28:31,276 - SECURITY - WARNING - Teste de aviso de segurança
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:31,276 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:54,019 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:54,020 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:54,020 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:28:54,021 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:28:54,021 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:28:54,021 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:28:54,021 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:01,905 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:29:01,906 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:29:01,906 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:29:01,980 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:01,980 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:01,981 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:01,981 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:02,468 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:02,468 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:02,468 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:02,468 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:47,153 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:29:47,166 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:29:47,166 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:29:47,196 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:47,196 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:47,197 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:47,197 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:48,366 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:48,366 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:29:48,367 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:29:48,367 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:30:17,334 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:30:17,335 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:30:17,335 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:30:17,678 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:30:17,678 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:30:17,678 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:30:17,678 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:35:34,519 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:35:34,520 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:35:34,520 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:35:34,822 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:35:34,822 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:35:34,822 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:35:34,822 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:52:44,827 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:52:44,830 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:52:44,830 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:52:45,150 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:52:45,150 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:52:45,150 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:52:45,150 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:58:13,154 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:58:13,156 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:58:13,156 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 03:58:13,254 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:58:13,254 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:58:13,255 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:58:13,255 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:58:13,744 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:58:13,744 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 03:58:13,745 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 03:58:13,745 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:02:06,873 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:02:06,874 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:02:06,874 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:02:06,951 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:02:06,951 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:02:06,951 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:02:06,951 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:02:15,607 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:02:15,608 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:02:15,608 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:02:15,649 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:02:15,649 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:02:15,649 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:02:15,649 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:03:04,706 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:03:04,707 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:03:04,707 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:03:04,976 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:03:04,976 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:03:04,976 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:03:04,976 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:05:26,407 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:05:26,410 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:05:26,410 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:05:26,414 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:05:26,414 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:05:26,414 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:05:26,414 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:07:59,738 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:07:59,740 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:07:59,740 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 13:07:59,748 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:07:59,748 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 13:07:59,748 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 13:07:59,748 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 14:16:57,556 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 14:16:57,557 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 14:16:57,557 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 14:16:57,563 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 14:16:57,563 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 14:16:57,563 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 14:16:57,563 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 14:18:11,298 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 14:18:11,300 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 14:18:11,300 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-24 14:18:11,303 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 14:18:11,303 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-24 14:18:11,303 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-24 14:18:11,303 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:14:54,064 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:14:54,064 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:14:54,064 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:14:54,067 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-26 03:14:54,067 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-26 03:16:38,154 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:16:38,154 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:16:38,154 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:16:38,157 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-26 03:16:38,157 - SECURITY - INFO - ✅ Modo testnet ativado - operações simuladas
+2025-09-26 03:17:28,647 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:17:28,648 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:17:28,648 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:17:28,651 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:17:28,651 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:17:28,651 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:17:28,651 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:06,650 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:24:06,651 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:24:06,651 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:24:06,723 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:06,723 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:06,723 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:06,723 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:07,246 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:07,246 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:07,246 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:07,246 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:31,403 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:31,403 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:31,403 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:31,403 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:31,906 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:31,906 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:24:31,906 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:24:31,906 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:00,218 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:00,218 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:00,218 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:00,218 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:01,203 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:01,203 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:01,203 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:01,203 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:01,653 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:01,653 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:01,654 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:01,654 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:02,522 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:02,522 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:02,522 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:02,522 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:03,696 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:03,696 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:03,696 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:03,696 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:11,833 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:11,833 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:11,834 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:11,834 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:12,531 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:12,531 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:25:12,531 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:25:12,531 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:55:25,698 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:55:25,699 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:55:25,699 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 03:55:25,703 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:55:25,703 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 03:55:25,703 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 03:55:25,703 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 04:24:15,496 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 04:24:15,498 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 04:24:15,498 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 04:24:15,502 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 04:24:15,502 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 04:24:15,503 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 04:24:15,503 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 04:41:28,039 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 04:41:28,041 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 04:41:28,041 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 04:41:28,045 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 04:41:28,045 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 04:41:28,045 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 04:41:28,045 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 05:02:12,225 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 05:02:12,226 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 05:02:12,226 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 05:02:12,230 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 05:02:12,230 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 05:02:12,230 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 05:02:12,230 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 05:21:21,060 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 05:21:21,061 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 05:21:21,061 - SECURITY - INFO - ✅ Configuração de segurança carregada
+2025-09-26 05:21:21,065 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 05:21:21,065 - SECURITY - WARNING - ⚠️ MODO PRODUÇÃO ATIVADO - OPERAÇÕES REAIS!
+2025-09-26 05:21:21,065 - SECURITY - INFO - ✅ Ambiente validado: production
+2025-09-26 05:21:21,065 - SECURITY - INFO - ✅ Ambiente validado: production
