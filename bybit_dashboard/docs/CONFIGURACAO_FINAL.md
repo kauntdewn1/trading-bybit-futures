@@ -3,22 +3,11 @@
 ## **✅ STATUS FINAL**
 
 ### **🔑 Sua Chave Configurada**
-- **API Key**: `1blelhM2aNRINYK8Mt` (18 caracteres)
-- **API Secret**: `ivXB3yH3VmoIm1oLxdJRPbAVo2mQkVS7Nruw` (36 caracteres)
-- **Telegram Token**: `7563910031:AAF5oYor5ba35yAdRnyKSnTZJewN7FojTqc`
-- **IP Restrito**: `181.192.114.64` (máxima segurança)
+- **API Key**: `xxxx` (18 caracteres)
+- **API Secret**: `xxxx`
+- **Telegram Token**: `xxxx`
+- **IP Restrito**: `xxxx` (máxima segurança)
 
-### **⚙️ Configuração Atual**
-```env
-TESTNET_MODE=false
-PRODUCTION_MODE=true
-PRODUCTION_CONFIRMED=true
-API_KEY=1blelhM2aNRINYK8Mt
-API_SECRET=ivXB3yH3VmoIm1oLxdJRPbAVo2mQkVS7Nruw
-TELEGRAM_TOKEN=7563910031:AAF5oYor5ba35yAdRnyKSnTZJewN7FojTqc
-BASE_URL=https://api.bybit.com
-WS_URL=wss://stream.bybit.com
-```
 
 ## **🚀 SISTEMA FUNCIONANDO**
 
